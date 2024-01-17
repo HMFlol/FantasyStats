@@ -1,0 +1,6 @@
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+select = ["ALL"]
+extend-include = ["*.ipynb"]
+ignore = ["ANN201", "D103", "ANN001", "ANN202", "D213", "D203"]
