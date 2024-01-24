@@ -4,3 +4,5 @@ nhl_data_2023-2024.csv
 nhlscraper.ipynb
 credentials.json
 fantrax_data.csv
+addclasses.py
+.vscode/launch.json
