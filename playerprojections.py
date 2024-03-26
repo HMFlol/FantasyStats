@@ -8,6 +8,7 @@
 This script is meant to be run daily to update the data and rankings
 
 In the future, I would like to add:
+- classes.
 - A way to automatically update the data and rankings on Google Sheets
 - Player projections based on previous seasons and current season statistics, using machine learning
 """
